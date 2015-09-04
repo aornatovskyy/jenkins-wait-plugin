@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+ Sleep Plugin allows you to delay job execution during some period of time. You can specify time to delay in job configuration. Big thanks for a great idea Sergey.
+</div>
