@@ -36,8 +36,8 @@ import java.util.Calendar;
  */
 public class HelloWorldBuilder extends Builder {
 
-    private final String name;
-    private final int time;
+    private  String name;
+    private  int time;
 
     // Fields in config.jelly must match the parameter names in the "DataBoundConstructor"
     @DataBoundConstructor
